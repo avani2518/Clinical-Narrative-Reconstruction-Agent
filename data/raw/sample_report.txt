@@ -1,0 +1,11 @@
+Patient: Ramesh Sharma
+
+Date: 12 March 2024
+
+Diagnosis:
+Type 2 Diabetes
+
+Medication:
+Metformin 500mg twice daily
+
+HbA1c: 8.2%

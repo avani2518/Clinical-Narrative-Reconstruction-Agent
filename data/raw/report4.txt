@@ -1,0 +1,9 @@
+Patient: Ramesh Sharma
+
+Date: 15 June 2024
+
+Allergies:
+Penicillin
+
+Medication:
+Amoxicillin 500mg

@@ -1,0 +1,7 @@
+Patient: Ramesh Sharma
+
+Date: 12 May 2024
+
+HbA1c: 8.2%
+
+Diabetes uncontrolled

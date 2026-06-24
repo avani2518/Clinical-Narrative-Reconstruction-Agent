@@ -1,0 +1,12 @@
+Patient: Ramesh Sharma
+
+Date: 20 March 2024
+
+Symptoms:
+Chest pain
+
+Diagnosis:
+Hypertension
+
+Medication:
+Amlodipine 5mg daily
